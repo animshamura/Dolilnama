@@ -8,6 +8,7 @@ Land documents are the backbone of ownership, security, and legacy. A single mis
 
 Dolilnama is an **AI-powered land document proofreader** that ensures your legal papers are flawless, accurate, and legally sound. From detecting grammatical errors to highlighting critical legal entities such as **names, locations, dates, and organizations**, Dolilnama safeguards your documents with cutting-edge **Natural Language Processing (NLP) and AI models**.
 </div>
+
 🔹 **Precision-driven proofreading** for legal documents  
 🔹 **AI-backed legal term extraction** to prevent costly mistakes  
 🔹 **User-friendly, intuitive interface** for effortless document review  
