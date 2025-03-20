@@ -84,5 +84,5 @@ python -m spacy download en_core_web_sm
 
 
 ## 📜 License
-Dolilnama is **open-source** and free to use. Your contributions help us build a future where legal document errors are a thing of the past! ✨
+Dolilnama is **open-source** and free to use. Your contributions help us build a future where legal document errors are a thing of the past! 
 
