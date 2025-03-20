@@ -49,11 +49,11 @@ python -m spacy download en_core_web_sm
 ```
 /dolilnama
 │── /src
-|   |── app.py               # Main Python script
+|   |── app.py           # Main Python script
 │── /templates           # HTML templates
 │   │── index.html       # Upload page
 │   └── result.html      # Proofreading result page
-│── /uploads (auto-created)  # Stores uploaded files
+│── /uploads (auto-created) # Stores uploaded files
 │── requirements.txt     # Dependencies
 ```
 
