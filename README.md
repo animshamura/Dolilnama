@@ -12,7 +12,7 @@ Dolilnama is an **AI-powered land document proofreader** that ensures your legal
 
 Your land, your legacy—**Dolilnama protects what matters most.**
 
----
+
 
 ## 🚀 Features
 ✅ **Seamless document upload** (PDF/DOCX)  
@@ -20,7 +20,7 @@ Your land, your legacy—**Dolilnama protects what matters most.**
 ✅ **Named Entity Recognition (NER) for legal terms**  
 ✅ **Clean, responsive web interface** for ease of use  
 
----
+
 
 ## 🔧 Installation Guide
 ### 1️⃣ Install pip (if not installed)
@@ -40,7 +40,7 @@ pip install flask spacy transformers PyPDF2 python-docx
 python -m spacy download en_core_web_sm
 ```
 
----
+
 
 ## 📂 Project Structure
 ```
@@ -53,7 +53,7 @@ python -m spacy download en_core_web_sm
 │── requirements.txt     # Dependencies
 ```
 
----
+
 
 ## 🎯 How to Run Dolilnama
 1️⃣ **Navigate to the project directory:**
@@ -71,14 +71,14 @@ python -m spacy download en_core_web_sm
 
 4️⃣ **Upload your document** and let Dolilnama ensure it is error-free and legally sound.
 
----
+
 
 ## 🔮 Future Enhancements
 🚀 **Real-time error highlighting** directly in the document  
 📂 **Downloadable, AI-corrected document files**  
 📜 **Expanded legal document support (leases, deeds, etc.)**  
 
----
+
 
 ## 📜 License
 Dolilnama is **open-source** and free to use. Your contributions help us build a future where legal document errors are a thing of the past! ✨
