@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proofread Document</title>
+</head>
+<body>
+    <h2>Corrected Document</h2>
+    <pre>{{ text }}</pre>
+
+    <h2>Extracted Legal Entities</h2>
+    <ul>
+        {% for key, value in entities.items() %}
+            <li><strong>{{ key }}:</strong> {{ value }}</li>
+        {% endfor %}
+    </ul>
+    
+    <a href="/">Upload Another Document</a>
+</body>
+</html>
