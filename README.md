@@ -13,7 +13,7 @@ Dolilnama is an **AI-powered land document proofreader** that ensures your legal
 🔹 **AI-backed legal term extraction** to prevent costly mistakes  
 🔹 **User-friendly, intuitive interface** for effortless document review  
 
-Your land, your legacy—**Dolilnama protects what matters most.**
+Your land, your legacy — **Dolilnama protects what matters most.**
 
 
 
