@@ -48,7 +48,8 @@ python -m spacy download en_core_web_sm
 ## 📂 Project Structure
 ```
 /dolilnama
-│── app.py               # Main Python script
+│── /src
+|   |── app.py               # Main Python script
 │── /templates           # HTML templates
 │   │── index.html       # Upload page
 │   └── result.html      # Proofreading result page
